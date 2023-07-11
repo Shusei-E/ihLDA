@@ -1,7 +1,7 @@
 # Scale-Invariant Infinite Hierarchical Topic Model (ihLDA)
 
 ## Paper
-<a href="https://shusei-e.github.io/" target="_blank">Shusei Eshima</a> and <a href="http://chasen.org/~daiti-m/index.html" target="_blank">Daichi Mochihashi</a>. 2023. Scale-Invariant Infinite Hierarchical Topic Model. In *Findings of the Association for Computational Linguistics: ACL 2023*.
+<a href="https://shusei-e.github.io/" target="_blank">Shusei Eshima</a> and <a href="http://chasen.org/~daiti-m/index.html" target="_blank">Daichi Mochihashi</a>. 2023. Scale-Invariant Infinite Hierarchical Topic Model. In *Findings of the Association for Computational Linguistics: ACL 2023*. [Link](https://aclanthology.org/2023.findings-acl.745/).
 
 
 ## Requirements
